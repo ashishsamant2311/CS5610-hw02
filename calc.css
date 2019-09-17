@@ -1,0 +1,23 @@
+table,th,td{
+	margin:0 auto;
+	border:20px solid gray;
+	border-collapse: collapse;
+	width: 30%;
+	text-align: center;
+	padding: 5px;}
+	
+.button {
+	background-color: black;
+	border: none;
+	color: white;
+	padding: 15px 50px;
+	text-align: center;
+	color: white;
+	font-size: 15px;
+}
+
+.textbox{
+	text-align:right;
+	height:50px;
+	padding-left: 150px;
+	font-size: 30px;}
